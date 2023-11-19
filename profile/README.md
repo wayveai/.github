@@ -1,6 +1,6 @@
 # Wayve
 
-![Wayve Logo](assets/logo.png)
+![Wayve Logo](../assets/logo.png)
 
 [wayve.ai](https://wayve.ai)
 
